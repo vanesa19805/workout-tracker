@@ -7,3 +7,11 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 # TECHNOLOGIES USED
 VSCODE/MONGOOSE/MONGO/EXPRESS/HEROKU/MONGO ATLAS
+
+# INSTILLATION 
+* run 'npm i'
+* run 'npm run seed'
+* run 'npm start'
+
+# Questions
+Please contatc me with any questions or concerns for this project at Gvane1919@gmail.com  
